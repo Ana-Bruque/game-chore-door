@@ -1,4 +1,4 @@
-# Chore Dor
+# Chore Door
 
 This is a single-page website that plays a fully-functional game where your mission is to open all of the doors without running into the ChoreBot.
 
